@@ -1,2 +1,3 @@
 # Data Files
-*.csv
+*laps_*.csv
+*weather_*.csv
