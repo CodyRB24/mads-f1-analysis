@@ -1,6 +1,8 @@
 1. Fetching FastF1 Data
-	- Create Dataframes [Cody]
-	- Identify Location of races and times
+	- Identify races locations (lat, long) and start times (data/event_location_data.csv) [Cody]
+	- Retrieve Weather Data for races (data/2018-2015/weather)[Cody]
+	- Retrieve Lap Data for races (data/2018-2015/laps) [Cody]
+	- Retrieve Telemetry Data for races [Cody]
 2. Fetching OpenMeteo Data
 	- Using location (lat, long) and time get weather conditions [Luis]
 3. Defining what's considered a "chaotic" weather conditions
