@@ -1,0 +1,18 @@
+1. Fetching FastF1 Data
+	- Create Dataframes [Cody]
+	- Identify Location of races and times
+2. Fetching OpenMeteo Data
+	- Using location (lat, long) and time get weather conditions [Luis]
+3. Defining what's considered a "chaotic" weather conditions
+	- Defined categories (Wet, Hot, Windy) [Vamsi]
+	- Group weather conditions with race locations [Vamsi]
+	- Create a subset of races to analyze data from
+	- Combine FastF1 weather (collected by minute) conditions along with OpenMeteo's (hourly combined) data
+4. Create a rank using basic statistics (median)
+	- Rank drivers based on starting position and finishing position (positions gained/lost) [Vamsi]
+	- Observe consitency of driver's performance during the race, per lap-time, using FastF1's weather data
+5. Analysis lap-time performance in adverse weather (In different weather conditions)
+	- Visualizations
+6. Analysis on team perfomance (In different weather conditions)
+	- Visualizations
+7. Analysis comparing the drivers of the same team
