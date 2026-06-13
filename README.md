@@ -104,4 +104,4 @@ pip install -r requirements.txt
 
 - **[FastF1](https://docs.fastf1.dev/)**
 - **[Open-Meteo Historical Archive](https://open-meteo.com/en/docs/historical-weather-api)**
-- **[F1 Circuits (GitHub)]** 
+- **[F1 Circuits (GitHub)](https://raw.githubusercontent.com/bacinger/f1-circuits/master/f1-locations.json)** 
