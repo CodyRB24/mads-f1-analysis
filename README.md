@@ -59,9 +59,9 @@ This notebook maps each lap to its corresponding weather window and computes per
 ---
 
 ### 5. `notebooks/5_race_data_analysis.ipynb`
-Analysis of lap performance under weather conditions after further data cleaning. Ranks drivers and teams by their relative time performance gain or loss in wet conditions.
+Analysis of lap performance under weather conditions after further data cleaning. Ranks drivers and teams by their relative time performance gain or loss in wet conditions. Analysis of Precipitation Intensity demostrating precipitation rate and lap time deviation from field median. Driver Rain Sensitivity Index using linear regression.
 
-**Requires:** Output from Notebook 2 (`f1_lap_weather_data.pkl`)
+**Requires:** Output from Notebook 2 (`f1_lap_weather_data.pkl`) and output from Notebook 4 (`data/lap_precipitation_data.csv`)
 
 **Key outputs:** Driver and team rain time performance and visualisations
 ---
